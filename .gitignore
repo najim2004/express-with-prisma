@@ -1,0 +1,16 @@
+# Backend er jonno common git ignore list
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables ebong secret files
+.env
+.env.local
+
+# Logs, IDE settings, ebong OS files
+*.log
+.vscode/
+.idea/
+.DS_Store
